@@ -22,8 +22,13 @@ header {
     height: 80px;
     width: 80px;
 }
-
-
+#belownav {
+    position: relative;
+    width: 1900px;
+}
+#Quotes {
+    background-image: url("quote of thrones.png");
+}
 main {
     display: flex;
 }
